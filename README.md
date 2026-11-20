@@ -101,4 +101,4 @@ These small experiments illustrate implementation costs and input effects. They 
 
 All eight supplied tests passed after the explanatory comments were added. Tests cover selection ranks and duplicates, input preservation, invalid ranks, empty structures, array growth, matrix validation, stack order, queue wraparound and growth, and linked list operations.
 
-The written assignment report is being prepared separately and still needs to be added before final submission.
+The completed report is available in [Assignment_6_Final.docx](Assignment_6_Final.docx). It includes design choices, complexity analysis, measured results, practical applications, testing, and the textbook reference.
